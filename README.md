@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dantonifa
 - 👀 I’m interested in preaching the Gospel of Jesus Christ...
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on multiple-choice tests
 - 📫 How to reach me: e-mail: dantonifayard@yahoo.com
 
